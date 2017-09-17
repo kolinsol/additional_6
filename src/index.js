@@ -29,6 +29,3 @@ function getZeroes(fact) {
   }
   return zeroes;
 }
-
-
-console.log(getZeroes("100!"));
